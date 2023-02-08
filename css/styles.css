@@ -5,3 +5,36 @@
     border: none;
     outline: none;
 }
+
+@font-face {
+    font-family: SF_Pro_Light;
+    src: url('./Fonts/SF-Pro-Text-Light.otf');
+}
+
+li {
+    list-style: none;
+}
+
+li i {
+    font-size: 1.5rem;
+}
+
+.navbar {
+    position: relative;
+    justify-content: center;
+    background-color: coral;
+}
+
+.container {
+    font-family: 'SF_Pro_Light';
+    height: 200px;
+    background-color: rgb(208, 177, 239);
+}
+
+.left_nav {
+    background-color: cadetblue;
+}
+
+.right_nav {
+    background-color: chartreuse;
+}
