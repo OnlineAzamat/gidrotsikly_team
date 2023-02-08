@@ -1,4 +1,4 @@
 # gidrotsikly_team
 
-# First template
+Hazirshe test rejimindemiz
  
