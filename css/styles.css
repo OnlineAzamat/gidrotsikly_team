@@ -1,3 +1,16 @@
+:root {
+    /* Color */
+    --text-back-color: #F0F0F4;
+    --blue: #1C62CD;
+    --icon-color: #2F3035;
+    --ad-color: #E9E9ED;
+
+    /* Size */
+    --bold: 900;
+    --medium: 600;
+    --norm: 400;
+}
+
 * {
     margin: 0;
     padding: 0;
