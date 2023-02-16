@@ -35,19 +35,10 @@ li i {
 .navbar {
     position: relative;
     justify-content: center;
-    background-color: coral;
 }
 
 .container {
     font-family: 'SF_Pro_Light';
     height: 200px;
-    background-color: rgb(208, 177, 239);
 }
 
-.left_nav {
-    background-color: cadetblue;
-}
-
-.right_nav {
-    background-color: chartreuse;
-}
